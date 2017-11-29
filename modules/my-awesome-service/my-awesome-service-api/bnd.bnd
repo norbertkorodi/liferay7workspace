@@ -1,0 +1,9 @@
+Bundle-Name: my-awesome-service-api
+Bundle-SymbolicName: com.awe.awesome.service.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.awe.awesome.service.exception,\
+	com.awe.awesome.service.model,\
+	com.awe.awesome.service.service,\
+	com.awe.awesome.service.service.persistence
+-includeresource: META-INF/service.xml=../my-awesome-service-service/service.xml

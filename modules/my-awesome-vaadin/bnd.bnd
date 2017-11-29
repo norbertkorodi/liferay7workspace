@@ -1,0 +1,4 @@
+Bundle-Name: my-awesome-vaadin
+Bundle-SymbolicName: com.awe.vaadindemo
+Bundle-Version: 1.0.0
+Export-Package: com.awe.vaadindemo.constants

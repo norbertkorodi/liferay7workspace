@@ -1,0 +1,4 @@
+Bundle-Name: my-awesome-project
+Bundle-SymbolicName: com.nor.awesome
+Bundle-Version: 1.0.0
+Export-Package: com.nor.awesome.constants

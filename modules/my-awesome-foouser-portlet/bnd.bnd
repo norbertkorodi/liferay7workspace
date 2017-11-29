@@ -1,0 +1,4 @@
+Bundle-Name: my-awesome-foouser-portlet
+Bundle-SymbolicName: com.awe.foouserportlet
+Bundle-Version: 1.0.0
+Export-Package: com.awe.foouserportlet.constants
